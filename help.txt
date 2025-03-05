@@ -1,0 +1,2 @@
+https://static-maps.yandex.ru/v1?lang=ru_RU&pt=28.98624,41.043451~28.95624,41.043451,78~28.94114,41.043451,pmgrs~28.98124,41.043451,pm2rdm~28.97624,41.043451,pmntl100~28.965573,41.04311,pmors23~28.950111,41.043451,flag~28.969573,41.04311,pm2ywl99~37.608,55.6,round&apikey=YOUR_API_KEY
+https://static-maps.yandex.ru/v1?lang=ru_RU&pt=37.545752,55.726462,pmwtm1&apikey=f3a0fe3a-b07e-4840-a1da-06f18b2ddf13
